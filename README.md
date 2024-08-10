@@ -1,6 +1,6 @@
 # Prediction of Diseases using Blood
 The main aim of this project is to provide a Deep Analysis of Healthcare Data Analytics. The study was a non-experimental survey. Descriptive statistics were collected using a convenience sampling method. The real-time data has been collected from SHREYA HOSPITAL Lab, Moti Nagar, Hyderabad, Telangana.
-The project contains results reflecting health issues in brackets and the cellular material on which the issue is based before them, as follows , Glucose level (diabetes mellitus), Hemoglobin percentage (Anemia) and Uric acid percentage (Gout).
+The project contains results reflecting health issues in brackets and the cellular material on which the issue is based before them, as follows , Glucose level (diabetes mellitus), Haemoglobin percentage (Anemia) and Uric acid percentage (Gout).
 
 # Approach
 Using Artificial Neural Network, Logistic Regression and Support Vector Machine algorithms to find the best accuracy for each of the datasets. This approach of predicting the diseases using three Machine Learning Algorithms could solve the problem of detecting whether a person has the disease or not.
